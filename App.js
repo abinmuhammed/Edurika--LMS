@@ -18,10 +18,10 @@ dbconnect();
 app.use(logger("dev"));
 app.use(express.json());
 app.use(cors());
-app.use("", require("./Routes/Student"));
-app.use("", require("./Routes/mentorRoutes"));
-app.use("", require("./Routes/AdminRoutes"));
-app.use("", require("./Routes/Chat"));
+app.use("/api", require("./Routes/Student"));
+app.use("/api", require("./Routes/mentorRoutes"));
+app.use("/api", require("./Routes/AdminRoutes"));
+app.use("/api", require("./Routes/Chat"));
 app.use(ErrorHandler);
 app.use(express.static(path.join(__dirname,"public")))
 
