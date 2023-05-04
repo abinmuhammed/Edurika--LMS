@@ -1,0 +1,28 @@
+# POST http://localhost:4000/Chat
+# Content-Type: application/json
+
+# {
+#   "senderId": "12344",
+#   "receiverId": "123342",
+#   "message": "Hello, Chat!"
+# }
+
+# POST http://localhost:4000/chat/message
+# Content-Type: application/json
+
+# {
+#     "conversationId":"643a72e63a8fd2fce77928bb",
+#     "sender":"641bd3492bc35180bcc9c280",
+#     "text":"hloooooooooooo"
+# # }
+# GET  http://localhost:4000/user?Email="ab5@gmail.com"
+
+GET  https://edurika.online/getMentorNotification
+?Content-Type: application/json
+
+# {
+#    "Email":"ab5@gmail.com",
+#    "password":"1234"
+
+# }
+
