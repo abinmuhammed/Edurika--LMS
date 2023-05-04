@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const { validateToken } = require("../middlewares/validateToken");
+// const { validateToken } = require("../middlewares/validateToken");
 
 
 // multer
@@ -40,7 +40,7 @@ const {
 router.post("/signupAsMentor", MentorSignup);
 router.post("/LoginasMentor", MentorLogin);
 
-router.get("/Mentorprofile", validateToken, Mentorprofile);
+// router.get("/Mentorprofile", validateToken, Mentorprofile);
 
 router.post("/CreateCourse",CreateCourse);
 

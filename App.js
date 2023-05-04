@@ -8,7 +8,7 @@ dotenv.config();
 const socketio = require("socket.io");
 const cors = require("cors");
 const logger = require("morgan");
-const {intitalizeSocket}=require("../Backend/Socket/socket")
+const {intitalizeSocket}=require("./Socket/socket")
 const path=require('path')
 
 const server = http.createServer(app);
