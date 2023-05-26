@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b23246b4.css",
-    "main.js": "/static/js/main.00e133a2.js",
+    "main.js": "/static/js/main.88de30a3.js",
     "static/media/Banner.png": "/static/media/Banner.a7f2f76ce5977b7351a4.png",
     "static/media/mBanner.png": "/static/media/mBanner.476390d9ed40a5ac1cf9.png",
     "static/media/Course Category.png": "/static/media/Course Category.49877841482f44a7146e.png",
@@ -17,10 +17,10 @@
     "static/media/Free Vector _ Flat under construction sign.jpeg": "/static/media/Free Vector _ Flat under construction sign.3a1255a79d49da64efb7.jpeg",
     "index.html": "/index.html",
     "main.b23246b4.css.map": "/static/css/main.b23246b4.css.map",
-    "main.00e133a2.js.map": "/static/js/main.00e133a2.js.map"
+    "main.88de30a3.js.map": "/static/js/main.88de30a3.js.map"
   },
   "entrypoints": [
     "static/css/main.b23246b4.css",
-    "static/js/main.00e133a2.js"
+    "static/js/main.88de30a3.js"
   ]
 }
