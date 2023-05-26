@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dcc63be.css",
-    "main.js": "/static/js/main.24699c14.js",
-    "static/media/ReactThumbnail.png": "/static/media/ReactThumbnail.89174e8ad8940d2609fc.png",
+    "main.css": "/static/css/main.b23246b4.css",
+    "main.js": "/static/js/main.00e133a2.js",
     "static/media/Banner.png": "/static/media/Banner.a7f2f76ce5977b7351a4.png",
     "static/media/mBanner.png": "/static/media/mBanner.476390d9ed40a5ac1cf9.png",
     "static/media/Course Category.png": "/static/media/Course Category.49877841482f44a7146e.png",
     "static/media/Group 20.png": "/static/media/Group 20.fb38c463c4b97608b854.png",
     "static/media/Group 15.png": "/static/media/Group 15.eca7df2a5baa75a6a554.png",
+    "static/media/Scard4.png": "/static/media/Scard4.24bfd25048411e82adf8.png",
+    "static/media/Scard3.png": "/static/media/Scard3.c4bbdcf061b50e04d1b1.png",
     "static/media/card1.png": "/static/media/card1.5440c9ae09085ed3fc16.png",
+    "static/media/Scard2.png": "/static/media/Scard2.07c6af88bd909447adc3.png",
     "static/media/teach1.png": "/static/media/teach1.a0d930ee403bdd632887.png",
     "static/media/Group 4.png": "/static/media/Group 4.bb09d15340fc0bc01884.png",
+    "static/media/Teacher.jpeg": "/static/media/Teacher.bf002eb91deb293bbf1a.jpeg",
+    "static/media/Free Vector _ Flat under construction sign.jpeg": "/static/media/Free Vector _ Flat under construction sign.3a1255a79d49da64efb7.jpeg",
     "index.html": "/index.html",
-    "main.7dcc63be.css.map": "/static/css/main.7dcc63be.css.map",
-    "main.24699c14.js.map": "/static/js/main.24699c14.js.map"
+    "main.b23246b4.css.map": "/static/css/main.b23246b4.css.map",
+    "main.00e133a2.js.map": "/static/js/main.00e133a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dcc63be.css",
-    "static/js/main.24699c14.js"
+    "static/css/main.b23246b4.css",
+    "static/js/main.00e133a2.js"
   ]
 }
